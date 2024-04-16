@@ -1,3 +1,5 @@
+#!/usr/bin/env ts-node
+
 import inquirer from "inquirer"
 
 const answers : {
